@@ -6,18 +6,18 @@
 
 ## 📋 Table of Contents
 
-- [System Requirements](#system-requirements)
-- [Initial Server Setup](#initial-server-setup)
-- [Dependencies Installation](#dependencies-installation)
-- [Nginx Installation & Configuration](#nginx-installation--configuration)
-- [SSL Certificate Setup](#ssl-certificate-setup)
-- [Directory Structure Creation](#directory-structure-creation)
-- [Snapshot Creation Script](#snapshot-creation-script)
-- [Automated Scheduling](#automated-scheduling)
-- [Web Interface Setup](#web-interface-setup)
-- [Download Script for Users](#download-script-for-users)
-- [Monitoring & Maintenance](#monitoring--maintenance)
-- [Troubleshooting](#troubleshooting)
+- [System Requirements](#-system-requirements)
+- [Initial Server Setup](#-initial-server-setup)
+- [Dependencies Installation](#-dependencies-installation)
+- [Nginx Installation & Configuration](#-nginx-installation--configuration)
+- [SSL Certificate Setup](#-ssl-certificate-setup)
+- [Directory Structure Creation](#-directory-structure-creation)
+- [Snapshot Creation Script](#-snapshot-creation-script)
+- [Automated Scheduling](#-automated-scheduling)
+- [Web Interface Setup](#-web-interface-setup)
+- [Download Script for Users](#-download-script-for-users)
+- [Monitoring & Maintenance](#-monitoring--maintenance)
+- [Troubleshooting](#-troubleshooting)
 
 ---
 
